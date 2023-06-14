@@ -1,8 +1,9 @@
 # PraktikumERD-SQL
 
-## erdalam pdf
+## erd
 https://sg.docworkspace.com/l/sII_tpMW0Ae3LpKQG?sa=e1&st=0t
 
-## berikut tabelnya
+## berikut tablenya
+
 
 https://sg.docworkspace.com/l/sIJ3tpMW0AdXSpKQG?sa=e1&st=0t
